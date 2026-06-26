@@ -3,11 +3,11 @@
 
 **Winner — Best Incorporation of Risk Assessment + Projection**
 Urban Futures Hackathon: Co-Creating Climate Resilience in NYC
-American Museum of Natural History, New York | January 2026
+American Museum of Natural History and Columbia University, New York | January 2026
 
 ---
 
-East Harlem (MH11) sits at the intersection of two compounding crises: a chronic shortage of street-level trash infrastructure and a growing flood risk from clogged catch basins. This project traces the full cascade — from overflowing litter baskets to blocked sewers to neighborhood-scale flooding — using 2025 NYC 311 service request data, NYCDEP catch basin records, and DSNY litter basket locations. By overlaying 311 sanitation complaint hotspots with stormwater flood projections, we identify which catch basins are at highest clogging risk and give the community a tool to act before the next cloudburst.
+The goal of this project was to leverage NYC Open Data to highlight a community-identified environmental justice issue in East Harlem. Community reporting (interviews with the project’s community partners, 311 Data, DSNY Litter Basket Data) indicates that public waste bins are sparse or have been removed, residential trash pickup is inconsistent, and street litter is a persistent issue. To estimate how likely litter is to enter storm drains, we measured the distance between catch basins and public trash bins. In East Harlem, the average distance was 46.7 meters, compared to 19.8 meters in the neighboring Upper East Side. We defined high clogging risk as catch basins with no trash bin within a 50-meter radius. Overlaying these high-risk basins with current and projected stormwater flood zones demonstrates that these areas also have conditions that make drainage failure due to clogging more likely. Compounding flood vulnerability in East Harlem demonstrates how inequitable city sanitation services are a climate risk.  
 
 ---
 ## Interactive Map
